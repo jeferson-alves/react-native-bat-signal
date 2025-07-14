@@ -2,8 +2,13 @@
   "name": "bat-signal-app",
   "version": "1.0.0",
   "main": "index.ts",
+  "description": "React Native App created as an exercise - DIO - Bat Signal.",
+  "author": {
+    "name": "Jeferson Alves (Jeff Alves)"
+  },
   "scripts": {
     "start": "expo start",
+    "start:dev": "npx expo start --tunnel",
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web"
