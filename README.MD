@@ -53,7 +53,7 @@ You'll need [Node.js](https://nodejs.org) installed on your computer in order to
 
 ```bash
 git clone https://github.com/jeferson-alves/react-native-bat-signal
-$ cd react-native-bat-pass-generator
+$ cd bat-signal-app
 $ npm install
 $ npm run start
 ```
